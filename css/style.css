@@ -45,7 +45,7 @@ padding: 20px   ;
     width: 50%;
     border-radius: 20px;
     background-color: #696060;
-     margin-right: 200px;
+     margin-right: 145px;
 }
 
 .introContainer p, h1 {
@@ -54,5 +54,11 @@ padding: 20px   ;
 
 .flexContainer {
     display: flex;
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#maincontainer{
+    width: 850px;
+    margin: auto;
 }
