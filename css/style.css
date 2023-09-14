@@ -43,7 +43,7 @@ button:hover{
 .introContainer {
 padding: 20px   ;
     width: 50%;
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: #696060;
      margin-right: 145px;
 }
@@ -61,4 +61,38 @@ padding: 20px   ;
 #maincontainer{
     width: 850px;
     margin: auto;
+}
+
+#hobbycontainer{
+    padding: 5px;
+    width: 20%;
+    border-radius: 10px;
+    background-color: #696060;
+    color: #ffffff;
+    float: left;
+    margin: 0px 0px 0px 150px;
+}
+
+#hobbyfoto{
+    float: left;
+}
+
+#funfoto1{
+    float: right;
+    margin: 10px 290px 0px 0px;
+}
+
+#funfoto2{
+    float: right;
+    margin: 10px 30px 0px 0px;
+}
+
+#youtube{
+    float: left;
+    margin: 0px 0px 0px 14px;
+}
+
+#tiktok{
+    float: left;
+    margin: 0px 0px 0px 20px;
 }
