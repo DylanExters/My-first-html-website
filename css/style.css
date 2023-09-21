@@ -96,3 +96,50 @@ padding: 20px   ;
     float: left;
     margin: 0px 0px 0px 20px;
 }
+
+#secondbutton{
+    padding: 4px;
+    margin: 5px 0px 0px 0px;
+    border-radius: 10px;
+    width: 15%;
+    background-color: aquamarine;
+
+}
+
+#secondbutton:hover{
+    background-color: rgb(180, 254, 229);
+    color: aquamarine;
+    border: aquamarine solid 3px;
+    transition: all 300ms;
+}
+
+#secondbutton a {
+    text-decoration: none;
+}
+
+#homebutton{
+    padding: 4px;
+    margin: 5px 0px 0px 0px;
+    border-radius: 10px;
+    width: 5%;
+    background-color: aquamarine;
+}
+
+#homebutton:hover{
+    background-color: rgb(180, 254, 229);
+    color: aquamarine;
+    border: aquamarine solid 3px;
+    transition: all 300ms;
+}
+
+#homebutton a {
+    text-decoration: none;
+}
+
+#maincontainer2{
+    background-color: #696060;
+    margin: 0px 0px 0px 0px;
+    padding: 4px;
+    width: 850px;
+    margin: auto;
+}
